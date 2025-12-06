@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "TechVision Inc.",
+    "ticker": "TECH",
+    "sector": "Technology",
+    "industry": "Software",
+    "description": "Leading provider of cloud-based enterprise solutions and AI-powered analytics platforms.",
+    "founded": "2010",
+    "headquarters": "San Francisco, CA",
+    "ceo": "Sarah Johnson",
+    "employees": 15000,
+    "revenue": "$8.5B",
+    "marketCap": "$45.2B",
+    "website": "www.techvision.com"
+  },
+  {
+    "id": "2",
+    "name": "GreenEnergy Solutions",
+    "ticker": "GREN",
+    "sector": "Energy",
+    "industry": "Renewable Energy",
+    "description": "Global leader in solar and wind energy infrastructure with innovative battery storage technology.",
+    "founded": "2015",
+    "headquarters": "Austin, TX",
+    "ceo": "Michael Chen",
+    "employees": 8500,
+    "revenue": "$3.2B",
+    "marketCap": "$18.7B",
+    "website": "www.greenenergy.com"
+  },
+  {
+    "id": "3",
+    "name": "MedLife Pharmaceuticals",
+    "ticker": "MEDL",
+    "sector": "Healthcare",
+    "industry": "Pharmaceuticals",
+    "description": "Pioneering biotechnology company focused on developing breakthrough treatments for rare diseases.",
+    "founded": "2008",
+    "headquarters": "Boston, MA",
+    "ceo": "Dr. Emily Roberts",
+    "employees": 12000,
+    "revenue": "$6.8B",
+    "marketCap": "$32.4B",
+    "website": "www.medlife.com"
+  },
+  {
+    "id": "4",
+    "name": "FinanceHub Corp",
+    "ticker": "FINH",
+    "sector": "Financial Services",
+    "industry": "Fintech",
+    "description": "Digital banking platform revolutionizing personal and business finance management.",
+    "founded": "2018",
+    "headquarters": "New York, NY",
+    "ceo": "David Williams",
+    "employees": 5000,
+    "revenue": "$2.1B",
+    "marketCap": "$12.5B",
+    "website": "www.financehub.com"
+  }
+]
