@@ -1,24 +1,18 @@
-import React from "react";
 import type { Company } from "../types/Company";
 
 interface CompanySelectorProps {
   companies: Company[];
   selectedCompanyId: string;
   onCompanyChange: (companyId: string) => void;
-  widgetNumber: number;
 }
 
 export const CompanySelector: React.FC<CompanySelectorProps> = ({
   companies,
   selectedCompanyId,
   onCompanyChange,
-  widgetNumber,
 }) => {
   return (
-    <div className="p-3 border-b bg-gray-50">
-      <label className="block text-sm font-medium text-gray-700 mb-2">
-        Widget {widgetNumber} - Select Company
-      </label>
+    <div className="p-3 bg-gray-50 border-b">
       <select
         value={selectedCompanyId}
         onChange={(e) => onCompanyChange(e.target.value)}
