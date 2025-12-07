@@ -1,7 +1,7 @@
 import { CompanyDashboard } from "./components/CompanyDashboard";
 
-function App() {
+const App = () => {
   return <CompanyDashboard />;
-}
+};
 
 export default App;

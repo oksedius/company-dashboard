@@ -13,3 +13,5 @@ export interface Company {
   marketCap: string;
   website: string;
 }
+
+export type ViewId = "widget1" | "widget2" | "widget3";
