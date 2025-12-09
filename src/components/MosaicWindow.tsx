@@ -30,7 +30,6 @@ export const MosaicWindow: React.FC<MosaicWindowProps> = ({
           companies={companiesData}
           selectedCompanyId={selectedCompanyId}
           onCompanyChange={onCompanyChange}
-          widgetNumber={widgetNumber}
         />
         {company && <CompanyWidget company={company} />}
       </div>
