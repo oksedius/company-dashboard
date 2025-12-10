@@ -29,7 +29,7 @@ Technical Features
 🚀 Quick Start
 Prerequisites
 
-Node.js 16+
+Node.js v22
 npm or yarn
 
 Installation
