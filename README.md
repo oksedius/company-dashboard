@@ -39,16 +39,8 @@ Clone the repository
 git clone https://github.com/yourusername/company-dashboard.git
 cd company-dashboard
 
-Install dependencies
-
-npm install --legacy-peer-deps
-
-Note: The --legacy-peer-deps flag is required for React Mosaic compatibility with React 18.
-
-
-Start development server
-
-bash   npm start
+docker-compose up --build 
 
 Open your browser
-Navigate to http://localhost:3000
+
+Navigate to http://localhost:8080
